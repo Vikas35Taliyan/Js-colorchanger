@@ -2,7 +2,7 @@
 
 # Live(Netlify)
 
-# JavaScript Quizz-App
+# JavaScript color-changer
 
 
 # Tech-
